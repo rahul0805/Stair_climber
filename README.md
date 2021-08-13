@@ -8,7 +8,7 @@ It is a fully Autonomous bot which uses complex Vision Algorithms to navigate th
 
 The Repository Contains the Layouts, CAD files, Stair detection code and report of the project. 
 
-![](./report/stair_climber.png "Title") 
+![](./report/stair_climber.png "Title")  
 
 ## Notable Features:
 * Novel Tri-Wheel Design
